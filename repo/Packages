@@ -1,0 +1,221 @@
+Package: pro.aliencillo.disablethings
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: aliencillo <correoalien8@gmail.com>
+Installed-Size: 200
+Depends: mobilesubstrate
+Filename: ./debs/pro.aliencillo.disablethings_1.0.1-1_iphoneos-arm.deb
+Size: 26190
+MD5sum: 22f00ac7d56103e3bc0b69f91aa16087
+SHA1: 451657b2f7920523008538be109df7b334c444e2
+SHA256: 7608238b6759c9351f669d53cd70c10b2d04de5faf4c014244ca0b1ef29af94f
+Section: Tweaks
+Description: Disables Things, by now LS Horizontal Scrolling, Camera, Today view, Page Dots and unlock text
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios12.2
+Author: aliencillo <correoalien8@gmail.com>
+Name: DisableThings
+
+Package: pro.aliencillo.newgridswitcherbig
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: aliencillo <correoalien8@gmail.com>
+Installed-Size: 68
+Depends: mobilesubstrate
+Filename: ./debs/pro.aliencillo.newgridswitcherbig_1.0.0-2_iphoneos-arm.deb
+Size: 2112
+MD5sum: fe9551f2247995044d0703319da483ba
+SHA1: dadfa811252e2eb736aa1d192e4b7fa0bbd9e0a0
+SHA256: ff687ae2197921e5116d616c5e57816bd0f09bc3b90232e207f593b7f6fa8698
+Section: Tweaks
+Description: A grid switcher with big cards
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios12.2
+Author: aliencillo <correoalien8@gmail.com>
+Name: NewGridSwitcherBig
+
+Package: pro.aliencillo.newgridswitcherbig
+Version: 1.0.1-1
+Architecture: iphoneos-arm
+Maintainer: aliencillo <correoalien8@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: ./debs/pro.aliencillo.newgridswitcherbig_1.0.1-1_iphoneos-arm.deb
+Size: 24462
+MD5sum: 0b982dc322a23286b51bbe539eb4f0ce
+SHA1: 2db64c1563e448fb448c06db7db72ad06c9fd2f6
+SHA256: 5fbb9bdd20dc7dd64b44b5f761301f4b485d177f95c3db8aed6697c22e6dfbcd
+Section: Tweaks
+Description: A grid switcher with big cards
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios12.2
+Author: aliencillo <correoalien8@gmail.com>
+Name: NewGridSwitcherBig
+
+Package: pro.aliencillo.newgridswitcherbig
+Version: 1.0.1-14
+Architecture: iphoneos-arm
+Maintainer: aliencillo <correoalien8@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: ./debs/pro.aliencillo.newgridswitcherbig_1.0.1-14_iphoneos-arm.deb
+Size: 24528
+MD5sum: bb7bc01e7367e4401a4300b75054a0c6
+SHA1: fbd9c692bda036408129c50ed280942a4e432c72
+SHA256: 6b030613b180f47c523dce46f8b60b1df63224dcb493bf19a09d88b31781e89e
+Section: Tweaks
+Description: A grid switcher with big cards
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios12.2
+Author: aliencillo <correoalien8@gmail.com>
+Name: NewGridSwitcherBig
+
+Package: pro.aliencillo.newgridswitcherbig
+Version: 1.0.1-15
+Architecture: iphoneos-arm
+Maintainer: aliencillo <correoalien8@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: ./debs/pro.aliencillo.newgridswitcherbig_1.0.1-15_iphoneos-arm.deb
+Size: 24520
+MD5sum: a8c87f03ca1f3376664a763c01895b6b
+SHA1: 9a86bafaea6db2537b0a3339030e2d1cf3310768
+SHA256: 540aa0d54b68d1503d9a2a03a6956019839948b37894a369e42411c628cd9df7
+Section: Tweaks
+Description: A grid switcher with big cards
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios12.2
+Author: aliencillo <correoalien8@gmail.com>
+Name: NewGridSwitcherBig
+
+Package: pro.aliencillo.newgridswitcherbig
+Version: 1.0.1-16
+Architecture: iphoneos-arm
+Maintainer: aliencillo <correoalien8@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: ./debs/pro.aliencillo.newgridswitcherbig_1.0.1-16_iphoneos-arm.deb
+Size: 24508
+MD5sum: a9163f0e9fc5f296396bb5b858b408bd
+SHA1: 3f49da3506d7e56254819b99f8f73095379a1df2
+SHA256: a6b74640fc89f2f6984bf288ac2a6ec0e4244efa7f051de0be2f0872f0bde24e
+Section: Tweaks
+Description: A grid switcher with big cards
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios12.2
+Author: aliencillo <correoalien8@gmail.com>
+Name: NewGridSwitcherBig
+
+Package: pro.aliencillo.newgridswitcherbig
+Version: 1.0.1-17
+Architecture: iphoneos-arm
+Maintainer: aliencillo <correoalien8@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: ./debs/pro.aliencillo.newgridswitcherbig_1.0.1-17_iphoneos-arm.deb
+Size: 24572
+MD5sum: b176e3339036b753a73f8675b30c27e7
+SHA1: ccc60184e93d7f2224e21dc9f02c4920769199fc
+SHA256: ea11ea8a689c1e1816b41951c1dfe4737d52084e509d50319e551dcd2a6244fd
+Section: Tweaks
+Description: A grid switcher with big cards
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios12.2
+Author: aliencillo <correoalien8@gmail.com>
+Name: NewGridSwitcherBig
+
+Package: pro.aliencillo.newgridswitcherbig
+Version: 1.0.1-18
+Architecture: iphoneos-arm
+Maintainer: aliencillo <correoalien8@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: ./debs/pro.aliencillo.newgridswitcherbig_1.0.1-18_iphoneos-arm.deb
+Size: 24570
+MD5sum: 41ec5aa849b6e92bbee3190eb995567a
+SHA1: c69aafb0a7f93f530fc51823a885114927ff2417
+SHA256: 95b6442bcc8d6965c953f749a5bfc10642c972b0e5506af4817d009f03434af4
+Section: Tweaks
+Description: A grid switcher with big cards
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios12.2
+Author: aliencillo <correoalien8@gmail.com>
+Name: NewGridSwitcherBig
+
+Package: pro.aliencillo.newgridswitcherbig
+Version: 1.0.1-19
+Architecture: iphoneos-arm
+Maintainer: aliencillo <correoalien8@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: ./debs/pro.aliencillo.newgridswitcherbig_1.0.1-19_iphoneos-arm.deb
+Size: 24512
+MD5sum: b1751bb72cc8d984a15163b969b0b7fc
+SHA1: 5a27b5eeaf3fb91ebeed44e1367b93cb1cbdc96a
+SHA256: 2835141d1c6a615e0034490273092b71941588e363bbd429adeecc98552b886c
+Section: Tweaks
+Description: A grid switcher with big cards
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios12.2
+Author: aliencillo <correoalien8@gmail.com>
+Name: NewGridSwitcherBig
+
+Package: pro.aliencillo.newgridswitcherbig
+Version: 1.0.1-20
+Architecture: iphoneos-arm
+Maintainer: aliencillo <correoalien8@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: ./debs/pro.aliencillo.newgridswitcherbig_1.0.1-20_iphoneos-arm.deb
+Size: 24518
+MD5sum: 84e5d903aa8cc146e74e9260df0907d9
+SHA1: 921b60b4f6aee0908b0104884d1362ee7910a5fd
+SHA256: 020f2298e26927c69434ee9cb3276cbbd5b385823d41e21224dd3abcd8700762
+Section: Tweaks
+Description: A grid switcher with big cards
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios12.2
+Author: aliencillo <correoalien8@gmail.com>
+Name: NewGridSwitcherBig
+
+Package: pro.aliencillo.newgridswitcherbig
+Version: 1.0.1-21
+Architecture: iphoneos-arm
+Maintainer: aliencillo <correoalien8@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: ./debs/pro.aliencillo.newgridswitcherbig_1.0.1-21_iphoneos-arm.deb
+Size: 24490
+MD5sum: 79311e9721a181a92a9e3bc34687a735
+SHA1: abdab5c4e7d0d5557ea1418082e7df7fabbb2271
+SHA256: a2235cb4f9542278e07f8f23b278c7f50b9514671eae74683e2ea05f468e9a0c
+Section: Tweaks
+Description: A grid switcher with big cards
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios12.2
+Author: aliencillo <correoalien8@gmail.com>
+Name: NewGridSwitcherBig
+
+Package: pro.aliencillo.newgridswitcherbig
+Version: 1.0.1-22
+Architecture: iphoneos-arm
+Maintainer: aliencillo <correoalien8@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: ./debs/pro.aliencillo.newgridswitcherbig_1.0.1-22_iphoneos-arm.deb
+Size: 24342
+MD5sum: adf643c84c5fc325a2538607f630acfb
+SHA1: 135863c9ede7d2535740b30ce47cdd6a64056612
+SHA256: e6586689752ab7255f1114c543c1ee2014c0098644d35d92bc7e182b94b3f7f0
+Section: Tweaks
+Description: A grid switcher with big cards
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios12.2
+Author: aliencillo <correoalien8@gmail.com>
+Name: NewGridSwitcherBig
+
+Package: pro.aliencillo.newgridswitcherbig
+Version: 1.0.1-23
+Architecture: iphoneos-arm
+Maintainer: aliencillo <correoalien8@gmail.com>
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: ./debs/pro.aliencillo.newgridswitcherbig_1.0.1-23_iphoneos-arm.deb
+Size: 23790
+MD5sum: d88db360168972e9dfb6fee6c74c705b
+SHA1: a391345e66c9655a28712fb15061db054eff8d13
+SHA256: c6cc6911d34615a7c66214b2671903d1ba378d6521965dd3a67cd02c3bc15eb0
+Section: Tweaks
+Description: A grid switcher with big cards
+Tag: purpose::extension, compatible_min::ios11.0, compatible_max::ios12.2
+Author: aliencillo <correoalien8@gmail.com>
+Name: NewGridSwitcherBig
+

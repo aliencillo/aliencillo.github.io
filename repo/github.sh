@@ -1,0 +1,5 @@
+#!/bin/bash
+cd /mnt/f/GitHub/aliencillo.github.io/repo/
+dpkg-scanpackages -m ./debs > Packages
+rm Packages.bz2
+bzip2 Packages
